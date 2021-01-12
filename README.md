@@ -30,6 +30,7 @@ A preprocessor gives us things CSS should've given us a while ago. It helps us d
 - D.R.Y
 - It's easier to keep your styles organized
 - Easy to setup
+- Nesting and Scoping
 - Toolkits on top of preprocessors
 - Variables are really important because sometimes we must repeat (Color, Font, etc.)
 
@@ -37,3 +38,6 @@ Sass Fundamentals
 -
 - Who invented Sass? [Hampton Catlin](https://twitter.com/HamptonMakes)
 - Important contributors? Chris Eppstein and [Natalie Weizenbaum](https://twitter.com/nex3)
+
+Learnings from Challenge 1
+-
