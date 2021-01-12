@@ -31,3 +31,4 @@ A preprocessor gives us things CSS should've given us a while ago. It helps us d
 - Toolkits on top of preprocessors
 - Variables are really important because sometimes we must repeat (Color, Font, etc.)
 
+## Sass Fundamentals
