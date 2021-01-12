@@ -1,5 +1,7 @@
 # Sass-Notes
 
+Working with Mike North's Sass Course. I've taken a few courses with Mike (TypeScript and Ember) and I love his teaching style. I know I'm about to learn a ton. Listen more to what Mike says, versus what's on the slides. His words are more important.
+
 CSS Pitfalls
 -
 - No encapsulation
@@ -31,4 +33,6 @@ A preprocessor gives us things CSS should've given us a while ago. It helps us d
 - Toolkits on top of preprocessors
 - Variables are really important because sometimes we must repeat (Color, Font, etc.)
 
-## Sass Fundamentals
+Sass Fundamentals
+-
+
