@@ -35,4 +35,5 @@ A preprocessor gives us things CSS should've given us a while ago. It helps us d
 
 Sass Fundamentals
 -
-
+Who invented Sass? [Hampton Catlin](https://twitter.com/HamptonMakes
+  Important contributors? Chris Eppstein and [Natalie Weizenbaum](https://twitter.com/nex3)
