@@ -40,4 +40,4 @@ Sass Fundamentals
 - Important contributors? Chris Eppstein and [Natalie Weizenbaum](https://twitter.com/nex3)
 
 Learnings from Challenge 1
--
+- Took a bit to get the exercises to work! I had to install express, livereload, node-sass-middleware, chalk, and commander.
